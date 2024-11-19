@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo mediante mét
 
 ## El análisis utiliza la base de datos drugs.csv, que recopila información sobre pacientes.
 
-# El objetivo principal es construir un modelo basado en ensambles que permita predecir con alta precisión el medicamento más adecuado para un paciente futuro, utilizando diferentes características de entrada.
+## El objetivo principal es construir un modelo basado en ensambles que permita predecir con alta precisión el medicamento más adecuado para un paciente futuro, utilizando diferentes características de entrada.
 
 ## Exploración y preprocesamiento de datos
 
